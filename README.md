@@ -38,6 +38,16 @@ VITE_SUPABASE_ANON_KEY=your-anon-key
 npm run dev
 ```
 
+## Supabase CLI linkage
+
+Projet Supabase partagé TeachingApps (`dqsspskdsfdiaaymrngi`) :
+
+```bash
+supabase login
+supabase init
+supabase link --project-ref dqsspskdsfdiaaymrngi
+```
+
 ## Scripts
 
 | Commande | Description |
